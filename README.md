@@ -120,6 +120,12 @@ Analyzes sales performance across different regions.
 
 Analyzes revenue by month to identify sales trends.
 
+## 📊 Visualization
+
+### Revenue by Product
+
+![Revenue by Product](revenue_by_product.png)
+
 ## 🎯Learning Objectives
 
 This project helps practice important Pandas concepts such as:
